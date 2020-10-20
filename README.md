@@ -1,6 +1,8 @@
 # rclone-backup
 
 ## About
+Forked from [https://github.com/FoxP/rclone-backup](https://github.com/FoxP/rclone-backup)
+
 Just my [rclone](https://rclone.org/) Windows batch scripts to backup / sync the second hard drive of my computer to [pCloud](https://www.pcloud.com/) (encrypted).
 
 ![](github/rclone-backup.png)
